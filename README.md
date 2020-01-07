@@ -1,6 +1,6 @@
 # Cruise-Control-Loop-Shaping
 
-**To shape the closed loop transfer function for a Cruise Control system** 
+**To shape the closed loop transfer function for a Cruise Control system and analyze the benefits of the feedback system.** 
 
 #### Objectives Achieved: 
 - Analyzed the benefits of feedback for a cruise control system with uncertain dynamics and disturbances.
