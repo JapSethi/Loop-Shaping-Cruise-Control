@@ -16,6 +16,6 @@
 - Latex 
 
 #### Use of each file:
-- **Loop_Shaping_Cruise_Control.mlx** - Executable Live script file with clearly defined problem statement and approach
-- **Loop_Shaping_Cruise_Control.pdf** - Published Document for a quick check of Solutions and Code
-- **Loop_Shaping_Cruise_Control.m** - Executable Matlab file with clearly defined problem statement and approach
+- [**Loop_Shaping_Cruise_Control.mlx**](Loop_Shaping_Cruise_Control.mlx) - Executable Live script file with clearly defined problem statement and approach
+- [**Loop_Shaping_Cruise_Control.pdf**](Loop_Shaping_Cruise_Control.pdf) - Published Document for a quick check of Solutions and Code
+- [**Loop_Shaping_Cruise_Control.m**](Loop_Shaping_Cruise_Control.m) - Executable Matlab file with clearly defined problem statement and approach
